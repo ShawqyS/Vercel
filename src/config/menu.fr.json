@@ -1,0 +1,95 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Nuestro Servicios",
+      "url": "/about"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "Productos",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Mallas",
+          "url": "",
+          "hasChildren": true,
+          "children": [
+            {
+              "name": "Malla Diamante",
+              "url": "/"
+            },
+            {
+              "name": "Malla Lisa",
+              "url": "/"
+            },
+            {
+              "name": "Malla Estilo Virginia",
+              "url": "/"
+            },
+            {
+              "name": "Malla Espiral",
+              "url": "/"
+            },
+            {
+              "name": "Malla Cuadriculada",
+              "url": "/"
+            },
+            {
+              "name": "Malla De Terminado Stockinette",
+              "url": "/"
+            }
+          ]
+        },
+        {
+          "name": "Casing-Net™",
+          "url": "/"
+        },
+        {
+          "name": "Kote™",
+          "url": "",
+          "hasChildren": true,
+          "children": [
+            {
+              "name": "Ultra-Kote™",
+              "url": "/"
+            },
+            {
+              "name": "Flavor-Kote™",
+              "url": "/"
+            },
+            {
+              "name": "Spice-Kote™",
+              "url": "/"
+            }
+          ]
+        },
+        {
+          "name": "Stockinette",
+          "url": "/"
+        },
+        {
+          "name": "Red Elastica",
+          "url": "/"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/about"
+    }
+  ]
+}
